@@ -3,13 +3,7 @@
 
 table {
   font-family: 'Noto Sans', sans-serif;
-  min-width: 700px;
-  .border-right-solid {
-    border-right: solid 2px black;
-  }
-  .td-img {
-    padding: 50px;
-  }
+  min-width: 450px;
   .td-skip-a-line {
     padding: 10px 0;
   }
@@ -18,7 +12,7 @@ table {
   }
   .dev-in-net {
     width: 130px;
-    margin: auto;
+    padding: 0 15px;
   }
 }
 
@@ -31,19 +25,14 @@ table {
 }
 
 .logo {
-  height: 20px;
-  width: 20px;
-  margin-right: 20px;
+  height: 35px;
+  width: 35px;
+  margin-right: 5px;
 }
 
-.link {
-  text-decoration: none;
-  color: black;
-}
-
-p {
-  text-decoration: none;
-  color: black
+.linkedin-devinnet {
+  height: 23px;
+  width: 23px;
 }
 
 .gif {
@@ -51,5 +40,39 @@ p {
 }
 
 .keryan {
-  margin: aut;
+  font-size: 25px;
+  color: #023047;
+}
+
+.font-size {
+  font-size: 15px;
+  color: #023047;
+}
+
+.vertical-divider {
+  border-left: 4px solid #ffb703;
+  height: 20px;
+  margin: 0 10px;
+}
+a:-webkit-any-link {
+  text-decoration: none !important;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.color-link:-webkit-any-link {
+  color: #fb8500!important;
+  text-decoration: none !important;
+}
+
+.color-link-blue:-webkit-any-link{
+  color: #219ebc!important;
+  text-decoration: none !important;
+}
+
+.center {
+  display: flex;
+  align-items: center;
 }
