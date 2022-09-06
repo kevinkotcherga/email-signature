@@ -37,7 +37,7 @@ function App() {
 				<tr>
 					<td></td>
 					<td className="font-size center">
-						<a className="color-link-blue" href="mailto:contact@devinnet.fr">
+						<a className="color-link" href="mailto:contact@devinnet.fr">
 							<span>contact@devinnet.fr</span>
 							<span className="vertical-divider"></span>
 						</a>
@@ -48,7 +48,7 @@ function App() {
 						>
 							<img
 								className="linkedin-devinnet center"
-								src="https://firebasestorage.googleapis.com/v0/b/signature-email-efddf.appspot.com/o/icons8-linkedin-entour%C3%A9-60%20(4).png?alt=media&token=1ef15397-cd7f-4359-a4de-909d615170db"
+								src="https://firebasestorage.googleapis.com/v0/b/signature-email-efddf.appspot.com/o/icons8-linkedin-entour%C3%A9-60%20(3).png?alt=media&token=9f3b7eef-cb24-4e20-8e18-deece3a01f9d"
 								alt=""
 							/>
 						</a>
@@ -70,7 +70,7 @@ function App() {
 						>
 							<img
 								className="logo"
-								src="https://firebasestorage.googleapis.com/v0/b/signature-email-efddf.appspot.com/o/icons8-github-60%20(2).png?alt=media&token=73932f29-6355-4574-8d93-2c4a611a683d"
+								src="https://firebasestorage.googleapis.com/v0/b/signature-email-efddf.appspot.com/o/icons8-github-60%20(4).png?alt=media&token=5e75f9e6-e92e-4ed0-abfd-03f80e247024"
 								alt=""
 							/>
 						</a>
@@ -81,7 +81,7 @@ function App() {
 						>
 							<img
 								className="logo"
-								src="https://firebasestorage.googleapis.com/v0/b/signature-email-efddf.appspot.com/o/icons8-domaine-60%20(2).png?alt=media&token=1e33e577-ace0-4324-bd99-c68ff2610af2"
+								src="https://firebasestorage.googleapis.com/v0/b/signature-email-efddf.appspot.com/o/icons8-domaine-60%20(4).png?alt=media&token=81a741b2-a84a-46c1-925b-65d39f7f0855"
 								alt=""
 							/>
 						</a>
@@ -92,7 +92,7 @@ function App() {
 						>
 							<img
 								className="logo"
-								src="https://firebasestorage.googleapis.com/v0/b/signature-email-efddf.appspot.com/o/icons8-linkedin-entour%C3%A9-60%20(2).png?alt=media&token=50fd0fac-60f5-462f-820e-46add835052c"
+								src="https://firebasestorage.googleapis.com/v0/b/signature-email-efddf.appspot.com/o/icons8-linkedin-entour%C3%A9-60%20(3).png?alt=media&token=9f3b7eef-cb24-4e20-8e18-deece3a01f9d"
 								alt=""
 							/>
 						</a>
@@ -144,7 +144,7 @@ function App() {
 						>
 							<img
 								className="linkedin-devinnet center"
-								src="https://firebasestorage.googleapis.com/v0/b/signature-email-efddf.appspot.com/o/icons8-linkedin-entour%C3%A9-60%20(4).png?alt=media&token=1ef15397-cd7f-4359-a4de-909d615170db"
+								src="https://firebasestorage.googleapis.com/v0/b/signature-email-efddf.appspot.com/o/icons8-linkedin-entour%C3%A9-60%20(3).png?alt=media&token=9f3b7eef-cb24-4e20-8e18-deece3a01f9d"
 								alt=""
 							/>
 						</a>
