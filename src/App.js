@@ -43,7 +43,7 @@ function App() {
 						>
 							<img
 								className="logo"
-								src="https://devinnet.fr/images/images-email/logo-linkedin.png"
+								src="https://devinnet.fr/images/images-email/logo-github.png"
 								alt=""
 							/>
 						</a>
@@ -55,7 +55,7 @@ function App() {
 						>
 							<img
 								className="logo"
-								src="https://firebasestorage.googleapis.com/v0/b/signature-email-efddf.appspot.com/o/icons8-linkedin-entour%C3%A9-60%20(5).png?alt=media&token=2924fe42-2164-4c55-90bc-1bbfbbe4ec03"
+								src="https://devinnet.fr/images/images-email/logo-linkedin.png"
 								alt=""
 							/>
 						</a>
@@ -131,7 +131,7 @@ function App() {
 						>
 							<img
 								className="logo"
-								src="https://devinnet.fr/images/images-email/logo-linkedin.png"
+								src="https://devinnet.fr/images/images-email/logo-github.png"
 								alt=""
 							/>
 						</a>
@@ -143,7 +143,7 @@ function App() {
 						>
 							<img
 								className="logo"
-								src="https://firebasestorage.googleapis.com/v0/b/signature-email-efddf.appspot.com/o/icons8-linkedin-entour%C3%A9-60%20(5).png?alt=media&token=2924fe42-2164-4c55-90bc-1bbfbbe4ec03"
+								src="https://devinnet.fr/images/images-email/logo-linkedin.png"
 								alt=""
 							/>
 						</a>
