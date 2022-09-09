@@ -11,7 +11,7 @@ function App() {
 					<td rowspan="5" className="td-img">
 						<img
 							class="dev-in-net"
-							src="https://firebasestorage.googleapis.com/v0/b/signature-email-efddf.appspot.com/o/DEV-IN-NET%20(16).gif?alt=media&token=0dd7405e-c439-448b-9a61-86080f982d46"
+							src="https://devinnet.fr/images/images-email/logo-dev-in-net-email.gif"
 							alt=""
 						/>
 					</td>
@@ -32,7 +32,7 @@ function App() {
 						>
 							<img
 								className="logo"
-								src="https://firebasestorage.googleapis.com/v0/b/signature-email-efddf.appspot.com/o/icons8-domaine-60%20(5).png?alt=media&token=9b7410d1-fdae-4dbe-a351-4be25fe3158a"
+								src="https://devinnet.fr/images/images-email/logo-www.png"
 								alt=""
 							/>
 						</a>
@@ -43,7 +43,7 @@ function App() {
 						>
 							<img
 								className="logo"
-								src="https://firebasestorage.googleapis.com/v0/b/signature-email-efddf.appspot.com/o/icons8-github-60%20(5).png?alt=media&token=dd166869-5e2c-4166-8a50-e3cbf3087427"
+								src="https://devinnet.fr/images/images-email/logo-linkedin.png"
 								alt=""
 							/>
 						</a>
@@ -99,7 +99,7 @@ function App() {
 					<td rowspan="5" className="td-img">
 						<img
 							class="dev-in-net"
-							src="https://firebasestorage.googleapis.com/v0/b/signature-email-efddf.appspot.com/o/DEV-IN-NET%20(16).gif?alt=media&token=0dd7405e-c439-448b-9a61-86080f982d46"
+							src="https://devinnet.fr/images/images-email/logo-dev-in-net-email.gif"
 							alt=""
 						/>
 					</td>
@@ -120,7 +120,7 @@ function App() {
 						>
 							<img
 								className="logo"
-								src="https://firebasestorage.googleapis.com/v0/b/signature-email-efddf.appspot.com/o/icons8-domaine-60%20(5).png?alt=media&token=9b7410d1-fdae-4dbe-a351-4be25fe3158a"
+								src="https://devinnet.fr/images/images-email/logo-www.png"
 								alt=""
 							/>
 						</a>
@@ -131,7 +131,7 @@ function App() {
 						>
 							<img
 								className="logo"
-								src="https://firebasestorage.googleapis.com/v0/b/signature-email-efddf.appspot.com/o/icons8-github-60%20(5).png?alt=media&token=dd166869-5e2c-4166-8a50-e3cbf3087427"
+								src="https://devinnet.fr/images/images-email/logo-linkedin.png"
 								alt=""
 							/>
 						</a>
