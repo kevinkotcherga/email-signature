@@ -19,8 +19,8 @@ function App() {
 				</tr>
 				<tr>
 					<td className="font-size">
-						<span className="bold">Fondateur</span>
-						<span className="vertical-divider"></span>Développeur Frontend
+						<span className="bold">Devinnet</span>
+						<span className="vertical-divider"></span>Fondateur & Développeur Front-end
 					</td>
 				</tr>
 				<tr>
@@ -69,7 +69,8 @@ function App() {
 						<a className="color-link" href="mailto:contact@devinnet.fr">
 							<span>contact@devinnet.fr</span>
 						</a>
-						<span className="vertical-divider"></span>06 34 17 20 14
+
+						<span className="vertical-divider"></span><a href="tel:+33634172014" className="color-link">06 34 17 20 14</a>
 					</td>
 				</tr>
 				<tr>
@@ -107,7 +108,7 @@ function App() {
 				<tr>
 					<td className="font-size">
 						<span className="bold">Devinnet</span>
-						<span className="vertical-divider"></span>Développeur Frontend
+						<span className="vertical-divider"></span>Développeur Front-end
 					</td>
 				</tr>
 				<tr>
@@ -156,7 +157,7 @@ function App() {
 						<a className="color-link" href="mailto:contact@devinnet.fr">
 							<span>contact@devinnet.fr</span>
 						</a>
-						<span className="vertical-divider"></span>06 34 17 20 14
+						<span className="vertical-divider"></span><a href="tel:+33634172014" className="color-link">06 34 17 20 14</a>
 					</td>
 				</tr>
 				<tr>
