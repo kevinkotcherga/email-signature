@@ -15,7 +15,7 @@ function App() {
 							alt=""
 						/>
 					</td>
-					<td className="bold keryan margin-right">Keryan Sanié</td>
+					<td className="bold keryan margin-right-keryan">Keryan Sanié</td>
 				</tr>
 				<tr>
 					<td className="font-size">

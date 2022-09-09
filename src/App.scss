@@ -4,12 +4,10 @@
 table {
   font-family: 'Noto Sans', sans-serif;
   // min-width: 681px;
-  min-width: 531px;
+  min-width: 573px;
   border-top: solid 0.5px rgb(229, 229, 229);
   border-bottom: solid 0.5px rgb(229, 229, 229);
-  // td {
-  //   border: solid 1px black;
-  // }
+
   .td-empty-top {
     padding-top: 20px;
   }
@@ -30,6 +28,10 @@ table {
 
 .margin-right {
   padding-right: 170px;
+}
+
+.margin-right-keryan {
+  padding-right: 212px;
 }
 
 .dev-in-net {
