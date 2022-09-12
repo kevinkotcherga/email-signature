@@ -4,12 +4,13 @@
 table {
   font-family: 'Noto Sans', sans-serif;
   // min-width: 681px;
-  min-width: 531px;
+  min-width: 573px;
   border-top: solid 0.5px rgb(229, 229, 229);
   border-bottom: solid 0.5px rgb(229, 229, 229);
-  // td {
-  //   border: solid 1px black;
-  // }
+  td {
+    padding:0;
+    // border: 1px solid black;
+  }
   .td-empty-top {
     padding-top: 20px;
   }
@@ -22,6 +23,12 @@ table {
   .td-logos {
    text-align: center;
   }
+  .td-empty {
+    visibility: hidden;
+    margin: 0;
+    padding: 0;
+    line-height: 0;
+  }
 }
 
 // .margin-right {
@@ -32,9 +39,13 @@ table {
   padding-right: 170px;
 }
 
+.margin-right-keryan {
+  padding-right: 212px;
+}
+
 .dev-in-net {
   width: 130px;
-  padding: 0 30px;
+  padding: 0 30px 41px 30px;
 }
 
 .bold {
@@ -46,10 +57,10 @@ table {
 }
 
 .logo {
-  height: 23px;
-  width: 23px;
-  margin-top: 3px;
-  margin-right: 12px;
+  height: 20px;
+  width: 20px;
+  margin-right: 5px;
+  margin-top: 2px;
 }
 
 .linkedin-devinnet {
@@ -67,12 +78,12 @@ table {
 }
 
 .font-size {
-  font-size: 15px;
+  font-size: 14px;
   color: #023047;
 }
 
 .vertical-divider {
-  border-left: 4px solid #FFA033;
+  border-left: 3px solid #FFA033;
   height: 20px;
   margin: 0 10px;
 }

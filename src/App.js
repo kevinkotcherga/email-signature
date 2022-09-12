@@ -2,103 +2,104 @@ import './App.scss';
 
 function App() {
 	return (
-		<>
-			<table>
-				<tr>
-					<td className="td-empty-top" colSpan={2}></td>
-				</tr>
-				<tr>
-					<td rowspan="5" className="td-img">
-						<img
-							class="dev-in-net"
-							src="https://firebasestorage.googleapis.com/v0/b/signature-email-efddf.appspot.com/o/DEV-IN-NET%20(16).gif?alt=media&token=0dd7405e-c439-448b-9a61-86080f982d46"
-							alt=""
-						/>
-					</td>
-					<td className="bold keryan margin-right">Keryan Sanié</td>
-				</tr>
-				<tr>
-					<td className="font-size">
-						<span className="bold">Fondateur</span>
-						<span className="vertical-divider"></span>Développeur Frontend
-					</td>
-				</tr>
-				<tr>
-					<td>
-						<a
-							href="http://www.keryan.sanie.fr/"
-							target="_blank"
-							rel="noreferrer"
-						>
-							<img
-								className="logo"
-								src="https://firebasestorage.googleapis.com/v0/b/signature-email-efddf.appspot.com/o/icons8-domaine-60%20(5).png?alt=media&token=9b7410d1-fdae-4dbe-a351-4be25fe3158a"
-								alt=""
-							/>
-						</a>
-						<a
-							href="https://github.com/keryanS"
-							target="_blank"
-							rel="noreferrer"
-						>
-							<img
-								className="logo"
-								src="https://firebasestorage.googleapis.com/v0/b/signature-email-efddf.appspot.com/o/icons8-github-60%20(5).png?alt=media&token=dd166869-5e2c-4166-8a50-e3cbf3087427"
-								alt=""
-							/>
-						</a>
+		// <>
+			// <table>
+			// 	<tr>
+			// 		<td className="td-empty-top" colSpan={2}></td>
+			// 	</tr>
+			// 	<tr>
+			// 		<td rowspan="8" className="td-img">
+			// 			<img
+			// 				class="dev-in-net"
+			// 				src="https://devinnet.fr/images/images-email/logo-dev-in-net-email.gif"
+			// 				alt=""
+			// 			/>
+			// 		</td>
+			// 		<td className="bold keryan margin-right-keryan">Keryan Sanié</td>
+			// 	</tr>
+			// 	<tr>
+			// 		<td className="font-size">
+			// 			<span className="bold">Devinnet</span>
+			// 			<span className="vertical-divider"></span>Fondateur & Développeur Front-end
+			// 		</td>
+			// 	</tr>
+			// 	<tr>
+			// 		<td>
+			// 			<a
+			// 				href="http://www.keryan.sanie.fr/"
+			// 				target="_blank"
+			// 				rel="noreferrer"
+			// 			>
+			// 				<img
+			// 					className="logo"
+			// 					src="https://devinnet.fr/images/images-email/logo-www.png"
+			// 					alt=""
+			// 				/>
+			// 			</a>
+			// 			<a
+			// 				href="https://github.com/keryanS"
+			// 				target="_blank"
+			// 				rel="noreferrer"
+			// 			>
+			// 				<img
+			// 					className="logo"
+			// 					src="https://devinnet.fr/images/images-email/logo-github.png"
+			// 					alt=""
+			// 				/>
+			// 			</a>
 
-						<a
-							href="https://www.linkedin.com/in/keryansanie/"
-							target="_blank"
-							rel="noreferrer"
-						>
-							<img
-								className="logo"
-								src="https://firebasestorage.googleapis.com/v0/b/signature-email-efddf.appspot.com/o/icons8-linkedin-entour%C3%A9-60%20(5).png?alt=media&token=2924fe42-2164-4c55-90bc-1bbfbbe4ec03"
-								alt=""
-							/>
-						</a>
-					</td>
-				</tr>
-				<tr>
-					<td className="td-skip-a-line"></td>
-				</tr>
-				<tr>
-					<td className="font-size">
-						<a className="color-link" href="mailto:contact@devinnet.fr">
-							<span>contact@devinnet.fr</span>
-						</a>
-						<span className="vertical-divider"></span>06 34 17 20 14
-					</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td className="font-size">48 Rue Andy Warhol, 34000 Montpellier</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td className="font-size center">
-						<a className="color-link" href="http://www.devinnet.fr/">
-							<span>www.devinnet.fr</span>
-						</a>
-					</td>
-				</tr>
-				<tr>
-					<td className="td-empty-bottom" colSpan={2}>
-						{' '}
-					</td>
-				</tr>
-			</table>
-			<table className="min-width-kevin">
-				<tr>
-					<td className="td-empty-top" colSpan={2}></td>
-				</tr>
-				<tr>
-					<td rowspan="5" className="td-img">
-						<img
+			// 			<a
+			// 				href="https://www.linkedin.com/in/keryansanie/"
+			// 				target="_blank"
+			// 				rel="noreferrer"
+			// 			>
+			// 				<img
+			// 					className="logo"
+			// 					src="https://devinnet.fr/images/images-email/logo-linkedin.png"
+			// 					alt=""
+			// 				/>
+			// 			</a>
+			// 		</td>
+			// 	</tr>
+			// 	<tr>
+			// 		<td className="td-skip-a-line"></td>
+			// 	</tr>
+			// 	<tr>
+			// 		<td className="font-size">
+			// 			<a className="color-link" href="mailto:contact@devinnet.fr">
+			// 				<span>contact@devinnet.fr</span>
+			// 			</a>
+
+			// 			<span className="vertical-divider"></span><a href="tel:+33634172014" className="color-link">06 34 17 20 14</a>
+			// 		</td>
+			// 	</tr>
+			// 	<tr>
+			// 		{/* <td className='td-empty'></td> */}
+			// 		<td className="font-size">48 Rue Andy Warhol, 34000 Montpellier</td>
+			// 	</tr>
+			// 	<tr>
+			// 		{/* <td className='td-empty'></td> */}
+			// 		<td className="font-size center">
+			// 			<a className="color-link" href="http://www.devinnet.fr/">
+			// 				<span>www.devinnet.fr</span>
+			// 			</a>
+			// 		</td>
+			// 	</tr>
+			// 	<tr>
+			// 		<td className="td-empty-bottom" colSpan={2}>
+			// 			{' '}
+			// 		</td>
+			// 	</tr>
+			// </table>
+			 <table className="min-width-kevin">
+			 	<tr>
+			 		<td className="td-empty-top" colSpan={2}></td>
+			 	</tr>
+			 	<tr>
+			 		<td rowspan="8" className="td-img">
+			 			<img
 							class="dev-in-net"
-							src="https://firebasestorage.googleapis.com/v0/b/signature-email-efddf.appspot.com/o/DEV-IN-NET%20(16).gif?alt=media&token=0dd7405e-c439-448b-9a61-86080f982d46"
+							src="https://devinnet.fr/images/images-email/logo-dev-in-net-email.gif"
 							alt=""
 						/>
 					</td>
@@ -107,7 +108,7 @@ function App() {
 				<tr>
 					<td className="font-size">
 						<span className="bold">Devinnet</span>
-						<span className="vertical-divider"></span>Développeur Frontend
+						<span className="vertical-divider"></span>Développeur Front-end
 					</td>
 				</tr>
 				<tr>
@@ -119,7 +120,7 @@ function App() {
 						>
 							<img
 								className="logo"
-								src="https://firebasestorage.googleapis.com/v0/b/signature-email-efddf.appspot.com/o/icons8-domaine-60%20(5).png?alt=media&token=9b7410d1-fdae-4dbe-a351-4be25fe3158a"
+								src="https://devinnet.fr/images/images-email/logo-www.png"
 								alt=""
 							/>
 						</a>
@@ -130,7 +131,7 @@ function App() {
 						>
 							<img
 								className="logo"
-								src="https://firebasestorage.googleapis.com/v0/b/signature-email-efddf.appspot.com/o/icons8-github-60%20(5).png?alt=media&token=dd166869-5e2c-4166-8a50-e3cbf3087427"
+								src="https://devinnet.fr/images/images-email/logo-github.png"
 								alt=""
 							/>
 						</a>
@@ -142,7 +143,7 @@ function App() {
 						>
 							<img
 								className="logo"
-								src="https://firebasestorage.googleapis.com/v0/b/signature-email-efddf.appspot.com/o/icons8-linkedin-entour%C3%A9-60%20(5).png?alt=media&token=2924fe42-2164-4c55-90bc-1bbfbbe4ec03"
+								src="https://devinnet.fr/images/images-email/logo-linkedin.png"
 								alt=""
 							/>
 						</a>
@@ -156,15 +157,15 @@ function App() {
 						<a className="color-link" href="mailto:contact@devinnet.fr">
 							<span>contact@devinnet.fr</span>
 						</a>
-						<span className="vertical-divider"></span>06 34 17 20 14
+						<span className="vertical-divider"></span><a href="tel:+33634172014" className="color-link">06 34 17 20 14</a>
 					</td>
 				</tr>
 				<tr>
-					<td></td>
+
 					<td className="font-size">48 Rue Andy Warhol, 34000 Montpellier</td>
 				</tr>
 				<tr>
-					<td></td>
+
 					<td className="font-size center">
 						<a className="color-link" href="http://www.devinnet.fr/">
 							<span>www.devinnet.fr</span>
@@ -177,7 +178,7 @@ function App() {
 					</td>
 				</tr>
 			</table>
-		</>
+		// </>
 	);
 }
 
