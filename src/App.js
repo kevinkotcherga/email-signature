@@ -11,7 +11,7 @@ function App() {
 				<td rowspan="8" className="td-img">
 					<img
 						class="dev-in-net"
-						src="https://devinnet.fr/images/images-email/logo-dev-in-net-email.gif"
+						src="https://devinnet.fr/images/images-email/devinnet-image-anime.gif"
 						alt=""
 					/>
 				</td>
@@ -91,15 +91,15 @@ function App() {
 				</td>
 			</tr>
 		</table>
-		//  <table className="min-width-kevin">
-		//  	<tr>
-		//  		<td className="td-empty-top" colSpan={2}></td>
-		//  	</tr>
-		//  	<tr>
-		//  		<td rowspan="8" className="td-img">
-		//  			<img
+		// <table className="min-width-kevin">
+		// 	<tr>
+		// 		<td className="td-empty-top" colSpan={2}></td>
+		// 	</tr>
+		// 	<tr>
+		// 		<td rowspan="8" className="td-img">
+		// 			<img
 		// 				class="dev-in-net"
-		// 				src="https://devinnet.fr/images/images-email/logo-dev-in-net-email.gif"
+		// 				src="https://devinnet.fr/images/images-email/devinnet-image-anime.gif"
 		// 				alt=""
 		// 			/>
 		// 		</td>
@@ -157,15 +157,16 @@ function App() {
 		// 			<a className="color-link" href="mailto:contact@devinnet.fr">
 		// 				<span>contact@devinnet.fr</span>
 		// 			</a>
-		// 			<span className="vertical-divider"></span><a href="tel:+33634172014" className="color-link">06 34 17 20 14</a>
+		// 			<span className="vertical-divider"></span>
+		// 			<a href="tel:+33634172014" className="color-link">
+		// 				06 34 17 20 14
+		// 			</a>
 		// 		</td>
 		// 	</tr>
 		// 	<tr>
-
 		// 		<td className="font-size">48 Rue Andy Warhol, 34000 Montpellier</td>
 		// 	</tr>
 		// 	<tr>
-
 		// 		<td className="font-size center">
 		// 			<a className="color-link" href="http://www.devinnet.fr/">
 		// 				<span>www.devinnet.fr</span>
